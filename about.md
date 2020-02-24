@@ -1,6 +1,6 @@
 layout: page
 title: "PAGE TITLE"
-permalink: https://xloctran.github.io/about
+permalink: https://xloctran.github.io/about/contact
 
 
-....
+....aaa
