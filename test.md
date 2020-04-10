@@ -64,3 +64,18 @@ Crossed fingers.
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+
+This is to add a horizontal line in to the page.
+``` markdown
+* * *
+```
+
+* * *
+
+A nested list is quite easy to make, for example:
+- The is some subject around one problem:
+  - subject 1
+  - subject 2. This can be divided further into multiple classes:
+    1. Class number 1.
+    2. Class number 2.
+    
