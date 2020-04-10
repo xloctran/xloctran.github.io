@@ -6,8 +6,9 @@ Let's start with some normal text, and then change to another paragraph.
 
 This line will be followed by a header.
 
-#This is the first header.
-##This is a smaller header.
+# This is the first header.
+
+## This is a smaller header.
 
 The following is called a blockquote.
 
@@ -15,7 +16,8 @@ The following is called a blockquote.
 >
 > The second line is empty. This is the third line.
 
-##This is another small header, there is no dot at the end :)
+## This is another small header, there is no dot at the end :)
+
 ```python
 import pandas as pd
 import torch
