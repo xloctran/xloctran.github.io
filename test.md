@@ -25,3 +25,25 @@ import numpy as np
 
 A = np.zero(3, 4)
 ```
+
+### Another Header
+
+To make an unordered list, we use the * in front of each item, as in the following:
+
+* The first item is nonsense.
+* The second one doesn't get any better.
+* ...
+
+### Another Header
+
+To make an ordered list, we use number instead of * in front of each item.
+
+``` markdown
+1. The first item.
+2. The second item.
+3. ...
+```
+The result is:
+1. The first item.
+2. The second item.
+3. ...
