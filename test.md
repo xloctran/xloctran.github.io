@@ -47,3 +47,10 @@ The result is:
 1. The first item.
 2. The second item.
 3. ...
+
+### Yet Another Header
+Now I try to make a table. Hope that it will be one.
+|Index | Feature 1 | Feature 2 | Feature 3 |
+|------|-----------|
+
+Crossed fingers.
