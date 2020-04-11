@@ -72,10 +72,13 @@ This is to add a horizontal line in to the page.
 
 * * *
 
-A nested list is quite easy to make, for example:
-- The is some subject around one problem:
+A nested list is quite easy to make, for example: there are some subjects around one problem:
   - subject 1
   - subject 2. This can be divided further into multiple classes:
     1. Class number 1.
     2. Class number 2.
-    
+
+
+I can also add some image into the page, with various size:
+
+[Octocat](./thumbnail.png)
