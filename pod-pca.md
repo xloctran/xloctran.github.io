@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% include lib/mathjax.html %}
+
 
 What exactly is Principle Component Analysis (PCA)? Rumors and facts around PCA.
 
@@ -9,7 +9,7 @@ What exactly is Principle Component Analysis (PCA)? Rumors and facts around PCA.
 **Definition**
 
  Let make an equation
- $$a+b = 3$$. 
+ $$a+b = 3$$.
 
 
 
