@@ -82,3 +82,5 @@ A nested list is quite easy to make, for example: there are some subjects around
 I can also add some image into the page, with various size:
 
 ![Octocat](https://xloctran.github.io/thumbnail.png)
+
+![Branching](https://xloctran.github.io/thumbnail.png)
