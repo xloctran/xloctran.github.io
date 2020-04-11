@@ -12,6 +12,7 @@ This line will be followed by a header.
 
 The following is called a blockquote.
 
+
 > Here it is, the first line of this blockquote.
 >
 > The second line is empty. This is the third line.
