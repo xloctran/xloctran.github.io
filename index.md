@@ -23,6 +23,13 @@ The most used protocol in the market at the moment is 10X chromium.
 
 # What are the techniques to preprocess scRNA-seq data, and why are they used?
 
+# scRNA-seq integration using mutual nearest neighbors (MNN). What are the assumptions?
+- The same population exists in both samples. 
+- The batch effect variation is much smaller than the biological variation in the data set. This is reasonable. Consider the case where the batch effect is similar to the variation between cell types. Then, there is the possibility that the MNN algorithm will assign a cell to the wrong nearest neighbors. 
+- The batch effect is orthogonal to the biological subspace. This roughly means that the biological effect and the batch effect should be some how independent. Examples: if one of the samples is affected by one gene that does not effect the cell-type identification. Then the integration can work for the cell-type identification analysis. 
+ 
+
+
 [Tests for some markdown languages](./test.html)
 
 
